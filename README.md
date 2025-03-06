@@ -1,3 +1,2 @@
-this is first line
-feature added by tahir
+now development branch is default branch 
 
