@@ -1,3 +1,2 @@
-this is first line
-feature1 added
+this is first code in feature branch 
 
